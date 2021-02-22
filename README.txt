@@ -2,7 +2,7 @@
 The Members Of EquinoxMyth
 
 --Dev Team
-Myth1 = EquinoxMyth -- also goes by Sky
+Myth1 = Sky -- also goes by Myth 
 Myth2 = CyLiner203
 Myth3 = CorruptedErrorBeta1
 -------
