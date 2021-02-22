@@ -4,7 +4,7 @@ The Members Of EquinoxMyth
 --Dev Team
 Myth1 = Sky -- also goes by Myth 
 Myth2 = CyLiner203
-Myth3 = CorruptedErrorBeta1
+Myth3 = CorruptedError
 -------
 
 
