@@ -2,7 +2,7 @@
 The Members Of EquinoxMyth
 
 --Dev Team
-Myth1 = Sky -- also goes by Myth 
+Myth1 = Sky -- also goes by Mythra
 Myth2 = Venara
 Myth3 = CorruptedError
 -------
